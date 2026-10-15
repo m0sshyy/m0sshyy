@@ -41,5 +41,5 @@
 
 ### 📫 Say hi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alya-fariha-azairry-498b91331/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alya-fariha-azairry/)
 [![Email](https://img.shields.io/badge/alyajejai@gmail.com-E64980?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyajejai@gmail.com)
